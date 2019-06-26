@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "714489212604",
+    "firebase_url": "https://tiketku-35c87.firebaseio.com",
+    "project_id": "tiketku-35c87",
+    "storage_bucket": "tiketku-35c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714489212604:android:ecc062fc6f827cf2",
+        "android_client_info": {
+          "package_name": "com.example.tiketku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714489212604-si8hli21luv91o6k2rpee84qkqpplkdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiketku",
+            "certificate_hash": "5a404d1a3dc55b11b7f581b7913ad4de9d9d1031"
+          }
+        },
+        {
+          "client_id": "714489212604-99fla594qlj3e82qgnqc09a4v6lfu3t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiketku",
+            "certificate_hash": "a5c8a98348217507a167cd455293b0fca0fc34aa"
+          }
+        },
+        {
+          "client_id": "714489212604-s2v3en5r43dtojcuigg3r91kge36mto3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTD2P7E91uhZauMeOhE-1FQK7QiH2x42c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714489212604-s2v3en5r43dtojcuigg3r91kge36mto3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
